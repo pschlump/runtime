@@ -10,7 +10,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/oapi-codegen/runtime/types"
+	"github.com/pschlump/runtime/types"
 )
 
 const tagName = "json"
